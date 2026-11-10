@@ -1,5 +1,7 @@
 # TA5YY Propagation Monitor
 
+![TA5YY Propagation Monitor Dashboard](screencapture-192-168-1-138-8765-2026-11-10-22_37_58.png)
+
 **Gerçek Zamanlı Amatör Telsiz Propagasyon İzleme Sistemi**
 
 **Geliştirici: TA5YY 🇹🇷**
